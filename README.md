@@ -20,4 +20,4 @@ Create a new chat bot with the name of your choice for me I will use myBot.
 
 ` chatbot = ChatBot('MyBot', trainer='chatterbot.trainers.ListTrainer') `
 
-### Notice, I added the trainer type when I created the chat bot.
+_ Notice, I added the trainer type when I created the chat bot.
