@@ -137,7 +137,7 @@ So, as we can see we need to create a home.html file as a frontend.
 
 Within your project create a folder “templates” and inside that create a file `home.html`.
 
-Open `home.html`, you can write whatever you want between <h1> </h1> in html this is called header. As well as <p></p> which means paragraph.
+Open `home.html`, you can write whatever you want inside brackets.
 ```
 <!DOCTYPE html>
 <html>
@@ -309,3 +309,5 @@ Until now, we didn’t define any function to get response from chat bot the rea
   });
 </script>
 ```
+Now, after checking that everything is done let’s run your `app.py`. Below you can see how the app runs correctly; if you faced any problem please check the steps erlier.
+![Compilation](https://github.com/shazaalqays/chatbot/tree/master/images/run)
