@@ -1,5 +1,6 @@
 import pickle
 
+
 # create a conversation list
 conversation = []
 
