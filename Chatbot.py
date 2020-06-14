@@ -4,6 +4,7 @@ from chatterbot.trainers import ListTrainer
 from flask import Flask, render_template, request
 import pickle
 
+
 #Flask app
 app = Flask(__name__)
 
