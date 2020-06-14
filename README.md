@@ -314,4 +314,3 @@ Now, after checking that everything is done let’s run your `app.py`. Below you
 
 So, go to the link http://127.0.0.1:5000/ and start chatting with your personal ChatBot. Your chatbot will be like this ![Result](https://github.com/shazaalqays/chatbot/tree/master/images/robo.jpg)
 
-
